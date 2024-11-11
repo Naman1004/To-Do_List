@@ -1,22 +1,32 @@
-# To-Do_List
-This is a simple command-line based To-Do List application written in Python. It allows users to add, view, and remove tasks from their to-do list.
+# 📝 To-Do List Application
 
-## Features
-1. **Add Task:** Add a new task to the to-do list.
-2. **View Tasks:** View all tasks in the to-do list.
-3. **Remove Task:** Remove a task from the to-do list by its number.
-4. **Exit:** Exit the application.
+A simple and interactive Python-based To-Do List application to help you organize and track your tasks efficiently!
 
-## Code Overview
-1. ```__init__``` : Initializes an empty list to store tasks.
-2. ```add_task(self, task)``` : Adds a new task to the list.
-3. ```view_tasks(self)``` : Displays all tasks in the list.
-4. ```remove_task(self, task_number)``` : Removes a task by its number.
-5. ```main()``` : Contains the main loop of the application, displaying the menu and handling user inputs.
+## 🚀 Features
 
-## Contributing
-Contributions are welcome! Please fork the repository and submit a pull request with your changes.
+- **Add Tasks**: Easily add new tasks to your to-do list.
+- **View Tasks**: See all your tasks neatly numbered.
+- **Remove Tasks**: Remove tasks by specifying their number on the list.
+- **User-Friendly Menu**: Navigate options to add, view, and remove tasks or exit.
 
-## Contact
-For any questions or suggestions, feel free to open an issue or contact me at [namansrivastava2004@gmail.com](mailto:namansrivastava2004@gmail.com)
+## 💻 How to Run
 
+1. Save the file as `To-Do-List.py`.
+2. Open your terminal, navigate to the directory, and run the script:
+    ```bash
+    python To-Do-List.py
+    ```
+
+## 📋 Usage
+
+1. **Add Task**: Choose option `1` to add a new task to your list.
+2. **View Tasks**: Choose option `2` to view all tasks.
+3. **Remove Task**: Choose option `3` and enter the task number to remove it.
+4. **Exit**: Choose option `4` to exit the application.
+
+
+## 👩‍💻 About
+
+This application is a straightforward, terminal-based tool designed to help you manage your tasks quickly and efficiently. Perfect for beginners learning Python or anyone looking for a simple to-do list!
+
+Enjoy staying organized! 🎉
